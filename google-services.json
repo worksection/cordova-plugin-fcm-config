@@ -1,1 +1,42 @@
-{"installed":{"client_id":"983874342064-cfdnks5fvnafeqblpolgj8f8eso077bk.apps.googleusercontent.com","project_id":"ws-android-v001","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}
+{
+  "project_info": {
+    "project_number": "983874342064",
+    "firebase_url": "https://ws-android-v001.firebaseio.com",
+    "project_id": "ws-android-v001",
+    "storage_bucket": "ws-android-v001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983874342064:android:fee73c4609b816bd",
+        "android_client_info": {
+          "package_name": "com.phonegap.worksection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983874342064-bfck8er70qikc5rec2gudmst25jlfvrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvcTa-f2kaNb7YIInXaMzpWBs3KND_XgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
